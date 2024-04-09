@@ -1,4 +1,4 @@
-Hello, I'm Emanuel Júnior and I study Systems Analysis and Development (ADS)
+Hello, I'm Emanuel Júnior and I'm a software engineering student!
 
 - 💻 I have knowledge of PostgresSQL, JAVA and UX Design databases
 - 📚 I’m currently learning PHP and HTML/CSS
