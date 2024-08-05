@@ -1,6 +1,6 @@
 Hello, I'm Emanuel Júnior and I'm a software engineering student!
 
-- 💻 I have knowledge of HTML, CSS and Framework Bootstrap
+- 💻 I have knowledge of HTML, CSS and Bootstrap Framework 
 - 📚 I’m currently learning JavaScript and English
 - 📫 Contact me at email: emanuelfrjunior@gmail.com
 
