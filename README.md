@@ -1,7 +1,7 @@
 Hello, I'm Emanuel Júnior and I'm a software engineering student!
 
-- 💻 I have knowledge of PostgresSQL, JAVA and UX Design databases
-- 📚 I’m currently learning PHP and HTML/CSS
+- 💻 I have knowledge of HTML, CSS and Framework Bootstrap
+- 📚 I’m currently learning JavaScript and English
 - 📫 Contact me at email: emanuelfrjunior@gmail.com
 
 <!---
