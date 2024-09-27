@@ -1,7 +1,7 @@
 Hello, I'm Emanuel Júnior and I'm a software engineering student!
 
-- 💻 I have knowledge of HTML, CSS and Bootstrap Framework 
-- 📚 I’m currently learning JavaScript and English
+- 💻 I have knowledge of HTML/CSS, JavaScript and TailwindCSS Framework 
+- 📚 I’m currently learning React.js and English
 - 📫 Contact me at email: emanuelfrjunior@gmail.com
 
 <!---
