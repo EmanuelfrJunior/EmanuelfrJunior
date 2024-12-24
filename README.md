@@ -1,7 +1,7 @@
 Hello, I'm Emanuel Júnior and I'm a software engineering student!
 
-- 💻 I have knowledge of HTML/CSS, JavaScript and TailwindCSS Framework 
-- 📚 I’m currently learning React.js and English
+- 💻 I have knowledge of HTML/CSS, React.js, TypeScript and TailwindCSS Framework 
+- 📚 I’m currently learning Node.JS and English
 - 📫 Contact me at email: emanuelfrjunior@gmail.com
 
 <!---
